@@ -1,0 +1,21 @@
+hotel_id,name,city,area,star_rating,guest_rating
+H01,Sea Breeze Residency,Mumbai,Colaba,4,4.3
+H02,Marine Crest Hotel,Mumbai,Marine Drive,5,4.6
+H03,Andheri Transit Inn,Mumbai,Andheri East,3,3.9
+H04,Juhu Palm Suites,Mumbai,Juhu,4,4.1
+H05,Calangute Shores Resort,Goa,Calangute,4,4.4
+H06,Palolem Bay Huts,Goa,Palolem,2,4.2
+H07,Panjim Heritage Stay,Goa,"Fontainhas, Panaji",3,4.5
+H08,Candolim Grand,Goa,Candolim,5,4.0
+H09,Pink City Haveli,Jaipur,Old City,3,4.6
+H10,Amber Fort View Hotel,Jaipur,Amer,4,4.2
+H11,Rajputana Palace Resort,Jaipur,Jagatpura,5,4.7
+H12,Jaipur Budget Stay,Jaipur,Sindhi Camp,2,3.6
+H13,Snow Peak Retreat,Manali,Old Manali,3,4.4
+H14,Solang Valley Lodge,Manali,Solang,3,4.0
+H15,Himalayan Pines Resort,Manali,Mall Road,4,4.5
+H16,Beas River Cottages,Manali,Vashisht,2,4.1
+H17,Lake Pichola Palace,Udaipur,Lal Ghat,5,4.8
+H18,Fateh Sagar Inn,Udaipur,Fateh Sagar,3,4.3
+H19,Udaipur Courtyard Stay,Udaipur,Hanuman Ghat,2,4.0
+H20,Aravalli Hills Resort,Udaipur,Badi,4,4.4

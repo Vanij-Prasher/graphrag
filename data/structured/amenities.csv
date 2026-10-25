@@ -1,0 +1,87 @@
+hotel_id,amenity
+H01,WiFi
+H01,Restaurant
+H01,Room Service
+H01,Gym
+H02,WiFi
+H02,Pool
+H02,Spa
+H02,Gym
+H02,Restaurant
+H02,Bar
+H02,Room Service
+H02,Parking
+H03,WiFi
+H03,Airport Shuttle
+H03,Restaurant
+H03,Parking
+H04,WiFi
+H04,Pool
+H04,Kitchenette
+H04,Parking
+H05,WiFi
+H05,Pool
+H05,Restaurant
+H05,Bar
+H05,Kids Play Area
+H05,Parking
+H06,WiFi
+H06,Beach Access
+H06,Restaurant
+H07,WiFi
+H07,Restaurant
+H08,WiFi
+H08,Pool
+H08,Spa
+H08,Gym
+H08,Bar
+H08,Beach Access
+H08,Parking
+H08,Restaurant
+H09,WiFi
+H09,Rooftop Restaurant
+H10,WiFi
+H10,Pool
+H10,Restaurant
+H10,Parking
+H11,WiFi
+H11,Pool
+H11,Spa
+H11,Gym
+H11,Restaurant
+H11,Bar
+H11,Parking
+H11,Kids Play Area
+H12,WiFi
+H13,WiFi
+H13,Heating
+H13,Bonfire
+H13,Restaurant
+H14,Heating
+H14,Parking
+H14,Restaurant
+H15,WiFi
+H15,Heating
+H15,Spa
+H15,Restaurant
+H15,Parking
+H15,Kids Play Area
+H16,WiFi
+H16,Heating
+H16,Bonfire
+H17,WiFi
+H17,Pool
+H17,Spa
+H17,Restaurant
+H17,Bar
+H17,Boat Transfer
+H18,WiFi
+H18,Rooftop Restaurant
+H18,Parking
+H19,WiFi
+H19,Rooftop Restaurant
+H20,WiFi
+H20,Pool
+H20,Spa
+H20,Restaurant
+H20,Parking

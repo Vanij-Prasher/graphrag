@@ -1,0 +1,44 @@
+hotel_id,room_type,price_inr_per_night,max_guests
+H01,Standard Double,6500,2
+H01,Deluxe Sea View,9200,2
+H01,Family Room,11800,4
+H02,Deluxe King,14500,2
+H02,Ocean Suite,26000,3
+H03,Standard Twin,3800,2
+H03,Triple Room,4900,3
+H04,Studio Suite,7800,2
+H04,Two-Bedroom Suite,13500,5
+H05,Garden Room,6200,2
+H05,Pool Access Room,8900,2
+H05,Family Villa,15500,5
+H06,Beach Hut,2200,2
+H06,Family Hut,3400,4
+H07,Heritage Double,4200,2
+H07,Heritage Suite,6800,3
+H08,Premier Room,12500,2
+H08,Grand Suite,22000,3
+H08,Pool Villa,34000,4
+H09,Haveli Room,3900,2
+H09,Royal Chamber,6200,3
+H10,Fort View Double,5600,2
+H10,Family Room,8100,4
+H11,Palace Room,13800,2
+H11,Maharaja Suite,29500,4
+H12,Economy Double,1600,2
+H12,Dormitory Bed,650,1
+H13,Mountain View Room,3600,2
+H13,Attic Family Room,5400,4
+H14,Valley Room,3200,2
+H14,Group Room,5900,6
+H15,Pine Deluxe,6900,2
+H15,Cottage Suite,10400,4
+H16,Riverside Cottage,2500,2
+H16,Family Cottage,3900,4
+H17,Lake View Room,18500,2
+H17,Royal Lake Suite,38000,3
+H18,Lake Facing Double,4600,2
+H18,Triple Room,5800,3
+H19,Courtyard Double,2100,2
+H19,Shared Dorm Bed,700,1
+H20,Hill View Room,7200,2
+H20,Family Suite,11200,4

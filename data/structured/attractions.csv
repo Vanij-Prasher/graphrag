@@ -1,0 +1,23 @@
+attraction_id,name,city,category
+A01,Gateway of India,Mumbai,Monument
+A02,Marine Drive Promenade,Mumbai,Viewpoint
+A03,Juhu Beach,Mumbai,Beach
+A04,Mumbai International Airport,Mumbai,Transport
+A05,Calangute Beach,Goa,Beach
+A06,Palolem Beach,Goa,Beach
+A07,Fort Aguada,Goa,Fort
+A08,Fontainhas Latin Quarter,Goa,Heritage District
+A09,Basilica of Bom Jesus,Goa,Church
+A10,Amber Fort,Jaipur,Fort
+A11,Hawa Mahal,Jaipur,Monument
+A12,City Palace Jaipur,Jaipur,Palace
+A13,Nahargarh Fort,Jaipur,Fort
+A14,Jaipur Railway Station,Jaipur,Transport
+A15,Hadimba Temple,Manali,Temple
+A16,Solang Valley,Manali,Adventure
+A17,Mall Road Manali,Manali,Market
+A18,Vashisht Hot Springs,Manali,Hot Spring
+A19,City Palace Udaipur,Udaipur,Palace
+A20,Lake Pichola,Udaipur,Lake
+A21,Fateh Sagar Lake,Udaipur,Lake
+A22,Sajjangarh Monsoon Palace,Udaipur,Palace
