@@ -84,3 +84,7 @@ frontend/     Next.js demo UI
 
 1. Copy `.env.example` to `.env` and fill in your Neo4j and Gemini credentials.
 2. Detailed setup steps will be added as each phase is built.
+
+## Design notes
+
+Why things were built this way, issues encountered and how they were fixed, results and known limitations: [docs/DESIGN_NOTES.md](docs/DESIGN_NOTES.md)

@@ -21,3 +21,6 @@ out/
 .DS_Store
 .vscode/
 .idea/
+
+# Personal notes (not shared)
+docs/PROJECT_NOTES.md
